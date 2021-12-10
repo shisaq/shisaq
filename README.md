@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 <div align=center>
 <img src="https://markdown-img.s3.ap-northeast-1.amazonaws.com/shisaq/2021-03-10-11-32-39-微信二维码.jpg" alt="wechat" width="150" height="150" align="bottom" />
-<!--   <img src="http://photos.cuijiahua.com/wx.jpg" alt="wechat" width="300" height="150" align="bottom" /> -->
+<!--   <img src="https://shisaq.github.io/img/avatar-shisaq.jpg" alt="wechat" width="150" height="150" align="bottom" /> -->
 </div>
