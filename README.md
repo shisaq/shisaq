@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shisaq)
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://shisaq.github.io/img/avatar-shisaq.jpg" width="230">
 
 - 😎 全栈/剪辑/后期/音乐/尤克里里
 - 🕹️ Website：https://shisaq.github.io/
@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 
 <div align=center>
 <img src="https://markdown-img.s3.ap-northeast-1.amazonaws.com/shisaq/2021-03-10-11-32-39-微信二维码.jpg" alt="wechat" width="150" height="150" align="bottom" />
-<!--   <img src="https://shisaq.github.io/img/avatar-shisaq.jpg" alt="wechat" width="150" height="150" align="bottom" /> -->
 </div>
